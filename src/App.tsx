@@ -4,12 +4,13 @@ import { getAuth, RecaptchaVerifier, signInWithPhoneNumber } from 'firebase/auth
 
 // Your Firebase configuration
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_AUTH_DOMAIN",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_STORAGE_BUCKET",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyBNIkcdFibzRPJaSo6sd-3Vi8RNG-8o0Hs",
+  authDomain: "evento-91009.firebaseapp.com",
+  projectId: "evento-91009",
+  storageBucket: "evento-91009.firebasestorage.app",
+  messagingSenderId: "402472179396",
+  appId: "1:402472179396:web:f7c6e5a5ff6f06dea19b91",
+  measurementId: "G-L9P2YG31CR"
 };
 
 // Initialize Firebase
